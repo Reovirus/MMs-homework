@@ -1,2 +1,2 @@
-# MMshomeworh
-Just homework with simple MMs implementation to bacterial genopmes
+# MM homework
+Just homework with simple MMs implementation to bacterial genomes
